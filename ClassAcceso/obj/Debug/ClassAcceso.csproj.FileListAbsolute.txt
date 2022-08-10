@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\Remxtra\ClassAcceso\bin\Debug\ClassAcceso.dll
+C:\Users\lenovo\source\repos\Remxtra\ClassAcceso\bin\Debug\ClassAcceso.pdb
+C:\Users\lenovo\source\repos\Remxtra\ClassAcceso\obj\Debug\ClassAcceso.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Remxtra\ClassAcceso\obj\Debug\ClassAcceso.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Remxtra\ClassAcceso\obj\Debug\ClassAcceso.dll
+C:\Users\lenovo\source\repos\Remxtra\ClassAcceso\obj\Debug\ClassAcceso.pdb

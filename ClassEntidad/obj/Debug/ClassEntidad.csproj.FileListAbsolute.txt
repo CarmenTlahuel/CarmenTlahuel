@@ -1,0 +1,5 @@
+C:\Users\lenovo\source\repos\Remxtra\ClassEntidad\bin\Debug\ClassEntidad.dll
+C:\Users\lenovo\source\repos\Remxtra\ClassEntidad\bin\Debug\ClassEntidad.pdb
+C:\Users\lenovo\source\repos\Remxtra\ClassEntidad\obj\Debug\ClassEntidad.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Remxtra\ClassEntidad\obj\Debug\ClassEntidad.dll
+C:\Users\lenovo\source\repos\Remxtra\ClassEntidad\obj\Debug\ClassEntidad.pdb

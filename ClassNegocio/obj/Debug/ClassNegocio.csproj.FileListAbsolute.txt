@@ -1,0 +1,2 @@
+C:\Users\lenovo\source\repos\Remxtra\ClassNegocio\obj\Debug\ClassNegocio.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\Remxtra\ClassNegocio\obj\Debug\ClassNegocio.csproj.CoreCompileInputs.cache
